@@ -36,7 +36,7 @@
 
 ```bash
 git clone https://github.com/BinoyCSE/Compiler_Lab_CSE-432_18-Batch.git
-cd Compiler_Lab_CSE-432_18-Batch/Flex_project/
+cd Compiler_Lab_CSE-432_18-Batch/Flex_Project/
 ```
 ## Screenshots
 
